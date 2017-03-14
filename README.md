@@ -15,6 +15,6 @@ This app with no fancy name is a Distributed application made using [Ethereum](h
 
 ##Screenshots
 
-[!alt Image1](/screenshots/ss_1.png)
+![alt Image1](/screenshots/ss_1.png)
 
-[!alt Image2](/screenshots/ss_2.png)
+![alt Image2](/screenshots/ss_2.png)
